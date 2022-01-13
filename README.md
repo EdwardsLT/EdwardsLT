@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EdwardsLT
-- 👀 I’m interested in ... the application of neutron scattering techniques 
--                          to problems in condensed matter physics 
+- 👀 I’m interested in ... the application of neutron scattering techniques to problems in condensed matter physics 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... edwardslt@cardiff.ac.uk
